@@ -34,9 +34,10 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    align-items: center;
     border-right: 1px solid lightgray;
 }
-
+.sidebar__header > p {display: flex;align-items: center;}
 .sidebar__headerRight {
     display: flex;
     align-items: center;
